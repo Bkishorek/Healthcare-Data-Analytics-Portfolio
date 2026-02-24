@@ -1,5 +1,5 @@
 # Healthcare-Data-Analytics-Portfolio
-Kishore | Aspiring Healthcare Data Analyst
+BKishoreK | Aspiring Healthcare Data Analyst
 
 This repository contains my healthcare data analytics projects focused on clinical and demographic insights.
 
