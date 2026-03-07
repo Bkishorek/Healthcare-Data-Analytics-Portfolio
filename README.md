@@ -14,3 +14,13 @@ This repository contains my healthcare data analytics projects focused on clinic
      Built interactive dashboard using DAX
      Explored severity, duration, demographics & medication patterns
    Tools: Power BI | DAX | Data Modeling
+
+🔹 Project 3: Life Expectancy Analysis (MS Excel,Python,Scikit-learn)
+     Analyzed global health indicators affecting life expectancy
+     Built an interactive Excel dashboard to visualize health trends 
+     Performed statistical analysis and correlatiion study using python 
+     Developed a linear Regression model to predict life expectancy to python
+     life expectancy
+     Tools : MS Excel | Python| Pandas | Matplotlip | Scikit-learn
+
+
